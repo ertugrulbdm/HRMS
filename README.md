@@ -1,2 +1,2 @@
 # HRMS
-kodlama.io HRMS örneğü
+kodlama.io HRMS örneği
